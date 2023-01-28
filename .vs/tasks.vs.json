@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-main_msvc",
+      "appliesTo": "main_msvc.cpp",
+      "type": "launch"
+    }
+  ]
+}
